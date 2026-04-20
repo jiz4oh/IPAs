@@ -2,7 +2,7 @@
   "name": "IPAs",
   "subtitle": "jiz4oh 自用的 IPA 归档源",
   "description": "这个仓库用于维护一个 AltSource 风格的 `apps.json`，供兼容 AltSource 的客户端导入，并配合 LiveContainer 使用。",
-  "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/livecontainer_icon.png",
+  "iconURL": "https://avatars.githubusercontent.com/u/41264693?v=4",
   "website": "https://github.com/jiz4oh/IPAs",
   "tintColor": "#4F7FFF",
   "apps": [
@@ -12,7 +12,7 @@
       "developerName": "个人归档",
       "subtitle": "IPA 归档",
       "localizedDescription": "从本地 IPA 归档生成。",
-      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/livecontainer_icon.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/6c/3d/9a6c3d83-b828-a339-a7d5-d864160126dd/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
       "category": "utilities",
       "versions": [
         {
@@ -38,7 +38,7 @@
       "upstream": {
         "repo": "open-ani/animeko"
       },
-      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/livecontainer_icon.png",
+      "iconURL": "https://raw.githubusercontent.com/open-ani/animeko/main/.github/assets/logo.png",
       "category": "entertainment",
       "versions": [
         {
@@ -61,7 +61,7 @@
       "developerName": "个人归档",
       "subtitle": "IPA 归档",
       "localizedDescription": "从本地 IPA 归档生成。",
-      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/livecontainer_icon.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a1/d8/a6/a1d8a63c-1534-2a04-b0fe-3de6e9c800b9/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/512x512bb.jpg",
       "category": "social",
       "versions": [
         {
@@ -90,7 +90,7 @@
           "NeoFreeBird-*.ipa"
         ]
       },
-      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/livecontainer_icon.png",
+      "iconURL": "https://raw.githubusercontent.com/NeoFreeBird/app/main/Branding/Icon_rounded.png",
       "category": "social",
       "versions": [
         {
@@ -113,7 +113,7 @@
       "developerName": "个人归档",
       "subtitle": "IPA 归档",
       "localizedDescription": "从本地 IPA 归档生成。重复的本地文件会分别保留为独立的 Release 资源。",
-      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/livecontainer_icon.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/87/a5/8587a5e9-0dbe-e66f-d81a-d34383464e23/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "category": "entertainment",
       "versions": [
         {
@@ -136,7 +136,7 @@
       "developerName": "个人归档",
       "subtitle": "IPA 归档",
       "localizedDescription": "从本地 IPA 归档生成。",
-      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/livecontainer_icon.png",
+      "iconURL": "https://avatars.githubusercontent.com/u/135683347?v=4",
       "category": "developer",
       "versions": [
         {
@@ -162,7 +162,7 @@
       "upstream": {
         "repo": "CLARATION/Feather"
       },
-      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/livecontainer_icon.png",
+      "iconURL": "https://raw.githubusercontent.com/CLARATION/Feather/main/Feather/Resources/Assets.xcassets/AppIcon.appiconset/feather.png",
       "category": "developer",
       "versions": [
         {
@@ -188,7 +188,7 @@
       "upstream": {
         "repo": "jiangtian616/JHenTai"
       },
-      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/livecontainer_icon.png",
+      "iconURL": "https://raw.githubusercontent.com/jiangtian616/JHenTai/master/assets/icon/JHenTai_512.png",
       "category": "entertainment",
       "versions": [
         {
@@ -214,7 +214,7 @@
       "upstream": {
         "repo": "Predidit/Kazumi"
       },
-      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/livecontainer_icon.png",
+      "iconURL": "https://raw.githubusercontent.com/Predidit/Kazumi/main/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024%401x.png",
       "category": "entertainment",
       "versions": [
         {
@@ -237,7 +237,7 @@
       "developerName": "个人归档",
       "subtitle": "IPA 归档",
       "localizedDescription": "从本地 IPA 归档生成。",
-      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/livecontainer_icon.png",
+      "iconURL": "https://raw.githubusercontent.com/guozhigq/pilipala/main/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024%401x.png",
       "category": "entertainment",
       "versions": [
         {
@@ -260,7 +260,7 @@
       "developerName": "个人归档",
       "subtitle": "IPA 归档",
       "localizedDescription": "从本地 IPA 归档生成。",
-      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/livecontainer_icon.png",
+      "iconURL": "https://raw.githubusercontent.com/xiaoyaocz/dart_simple_live/master/simple_live_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/icon-1024.png",
       "category": "entertainment",
       "versions": [
         {
@@ -283,7 +283,7 @@
       "developerName": "个人归档",
       "subtitle": "IPA 归档",
       "localizedDescription": "同一 bundle id 下包含多个微信变体。",
-      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/livecontainer_icon.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/9f/53/8b9f534e-e826-d72a-f3ae-04231eef8ccf/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/512x512bb.jpg",
       "category": "social",
       "versions": [
         {
@@ -301,7 +301,7 @@
           "localizedDescription": "源文件：WeChat_8.0.57_Clean.ipa",
           "downloadURL": "https://github.com/jiz4oh/IPAs/releases/download/2026-04-20/WeChat_8.0.57_Clean.ipa",
           "size": 311741968
-        },
+        }
       ],
       "appPermissions": {
         "entitlements": [],
@@ -314,7 +314,7 @@
       "developerName": "个人归档",
       "subtitle": "IPA 归档",
       "localizedDescription": "同一 bundle id 下包含多个微信变体。",
-      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/livecontainer_icon.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/9f/53/8b9f534e-e826-d72a-f3ae-04231eef8ccf/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/512x512bb.jpg",
       "category": "social",
       "versions": [
         {
@@ -337,7 +337,7 @@
       "developerName": "个人归档",
       "subtitle": "IPA 归档",
       "localizedDescription": "同一 bundle id 下包含多个微信变体。",
-      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/livecontainer_icon.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/9f/53/8b9f534e-e826-d72a-f3ae-04231eef8ccf/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/512x512bb.jpg",
       "category": "social",
       "versions": [
         {
@@ -347,7 +347,7 @@
           "localizedDescription": "源文件：WeChat_8.0.57_PKC_0.7.8_qy.xin.ipa",
           "downloadURL": "https://github.com/jiz4oh/IPAs/releases/download/2026-04-20/WeChat_8.0.57_PKC_0.7.8_qy.xin.ipa",
           "size": 346427262
-        },
+        }
       ],
       "appPermissions": {
         "entitlements": [],
@@ -363,7 +363,7 @@
       "upstream": {
         "repo": "xiaohucode/yidaRule"
       },
-      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/livecontainer_icon.png",
+      "iconURL": "https://raw.githubusercontent.com/xiaohucode/yidaRule/main/screenshot/logo.png",
       "category": "other",
       "versions": [
         {
@@ -386,7 +386,7 @@
       "developerName": "个人归档",
       "subtitle": "IPA 归档",
       "localizedDescription": "从本地 IPA 归档生成。",
-      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/livecontainer_icon.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/66/c3/9f66c385-09d0-529a-d04f-2736d0c81865/AppIcon-News-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
       "category": "social",
       "versions": [
         {
@@ -409,7 +409,7 @@
       "developerName": "个人归档",
       "subtitle": "IPA 归档",
       "localizedDescription": "从本地 IPA 归档生成。",
-      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/livecontainer_icon.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/3c/67/d23c6704-2d92-d7eb-8941-a34283d96774/AppIcon-0-1x_U007emarketing-0-8-0-sRGB-85-220-0.png/512x512bb.jpg",
       "category": "utilities",
       "versions": [
         {
@@ -432,7 +432,7 @@
       "developerName": "个人归档",
       "subtitle": "IPA 归档",
       "localizedDescription": "从本地 IPA 归档生成。",
-      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/livecontainer_icon.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/7e/cf/297ecff3-b0cd-c4e8-ea7a-d66e0071260f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "category": "entertainment",
       "versions": [
         {
@@ -455,7 +455,7 @@
       "developerName": "个人归档",
       "subtitle": "IPA 归档",
       "localizedDescription": "从本地 IPA 归档生成。",
-      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/livecontainer_icon.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/10/10/b810105b-3782-713f-0469-66fdd24161db/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
       "category": "social",
       "versions": [
         {
@@ -478,7 +478,7 @@
       "developerName": "个人归档",
       "subtitle": "IPA 归档",
       "localizedDescription": "同一 bundle id 下包含多个本地版本。",
-      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/livecontainer_icon.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/1c/07/701c0767-dac4-6323-c22f-c9b8184d9734/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
       "category": "utilities",
       "versions": [
         {
@@ -509,7 +509,7 @@
       "developerName": "个人归档",
       "subtitle": "IPA 归档",
       "localizedDescription": "从本地 IPA 归档生成。",
-      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/livecontainer_icon.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f7/95/37/f79537d9-8d5a-f35d-72fe-e6e97b68b7aa/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg",
       "category": "social",
       "versions": [
         {
@@ -532,7 +532,7 @@
       "developerName": "个人归档",
       "subtitle": "IPA 归档",
       "localizedDescription": "从本地 IPA 归档生成。",
-      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/livecontainer_icon.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/8c/4f/8c8c4f2d-d359-33d7-ac16-9ae13158287b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "category": "utilities",
       "versions": [
         {
@@ -555,7 +555,7 @@
       "developerName": "个人归档",
       "subtitle": "IPA 归档",
       "localizedDescription": "从本地 IPA 归档生成。",
-      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/livecontainer_icon.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/c2/dc/66c2dc22-bca2-f488-d9a1-b2d5d2b1e196/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "category": "social",
       "versions": [
         {
@@ -578,7 +578,7 @@
       "developerName": "个人归档",
       "subtitle": "IPA 归档",
       "localizedDescription": "同一 bundle id 下包含多个本地版本。",
-      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/livecontainer_icon.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/77/8a/3b778ac4-4146-6f9a-544b-caff65557270/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/512x512bb.jpg",
       "category": "utilities",
       "versions": [
         {
@@ -609,7 +609,7 @@
       "developerName": "个人归档",
       "subtitle": "IPA 归档",
       "localizedDescription": "从本地 IPA 归档生成。",
-      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/livecontainer_icon.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/cd/a9/1ccda9b3-3158-9679-9105-f5026df0ffcb/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
       "category": "social",
       "versions": [
         {
@@ -632,7 +632,7 @@
       "developerName": "个人归档",
       "subtitle": "IPA 归档",
       "localizedDescription": "从本地 IPA 归档生成。",
-      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/livecontainer_icon.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/40/5e/97405e49-87bb-3f0a-bf3a-91cf8fdf99a0/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-GLES2_U002c0-85-220.png/512x512bb.jpg",
       "category": "utilities",
       "versions": [
         {
@@ -655,7 +655,7 @@
       "developerName": "个人归档",
       "subtitle": "IPA 归档",
       "localizedDescription": "从本地 IPA 归档生成。",
-      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/livecontainer_icon.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/0c/a0/3f0ca0c4-8b56-b024-e763-d0b9943cecc3/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "category": "social",
       "versions": [
         {
@@ -678,7 +678,7 @@
       "developerName": "个人归档",
       "subtitle": "IPA 归档",
       "localizedDescription": "从本地 IPA 归档生成。",
-      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/livecontainer_icon.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/ae/47/d6ae47ee-ea3c-8fe3-84db-052a36bcfd41/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "category": "lifestyle",
       "versions": [
         {
