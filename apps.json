@@ -302,14 +302,21 @@
           "downloadURL": "https://github.com/jiz4oh/IPAs/releases/download/2026-04-20/WeChat_8.0.57_Clean.ipa",
           "size": 311741968
         },
-        {
-          "version": "8.0.57",
-          "buildVersion": "8.0.57.33",
-          "date": "2026-04-20",
-          "localizedDescription": "源文件：WeChat_8.0.57_PKC_0.7.8_qy.xin.ipa",
-          "downloadURL": "https://github.com/jiz4oh/IPAs/releases/download/2026-04-20/WeChat_8.0.57_PKC_0.7.8_qy.xin.ipa",
-          "size": 346427262
-        },
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "微信 wx",
+      "bundleIdentifier": "com.tencent.wx",
+      "developerName": "个人归档",
+      "subtitle": "IPA 归档",
+      "localizedDescription": "同一 bundle id 下包含多个微信变体。",
+      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/livecontainer_icon.png",
+      "category": "social",
+      "versions": [
         {
           "version": "8.0.57",
           "buildVersion": "8.0.57.33",
@@ -318,6 +325,29 @@
           "downloadURL": "https://github.com/jiz4oh/IPAs/releases/download/2026-04-20/WeChat_8.0.57_PKC_0.7.8_wx.ipa",
           "size": 346427258
         }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "微信 qy.xin",
+      "bundleIdentifier": "com.tencent.qy.xin",
+      "developerName": "个人归档",
+      "subtitle": "IPA 归档",
+      "localizedDescription": "同一 bundle id 下包含多个微信变体。",
+      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/livecontainer_icon.png",
+      "category": "social",
+      "versions": [
+        {
+          "version": "8.0.57",
+          "buildVersion": "8.0.57.33",
+          "date": "2026-04-20",
+          "localizedDescription": "源文件：WeChat_8.0.57_PKC_0.7.8_qy.xin.ipa",
+          "downloadURL": "https://github.com/jiz4oh/IPAs/releases/download/2026-04-20/WeChat_8.0.57_PKC_0.7.8_qy.xin.ipa",
+          "size": 346427262
+        },
       ],
       "appPermissions": {
         "entitlements": [],
