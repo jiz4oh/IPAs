@@ -1,0 +1,679 @@
+{
+  "name": "IPAs",
+  "subtitle": "jiz4oh 自用的 IPA 归档源",
+  "description": "这个仓库用于维护一个 AltSource 风格的 `apps.json`，供兼容 AltSource 的客户端导入，并配合 LiveContainer 使用。",
+  "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/livecontainer_icon.png",
+  "website": "https://github.com/jiz4oh/IPAs",
+  "tintColor": "#4F7FFF",
+  "apps": [
+    {
+      "name": "Alook",
+      "bundleIdentifier": "org.animeko.animeko",
+      "developerName": "个人归档",
+      "subtitle": "IPA 归档",
+      "localizedDescription": "从本地 IPA 归档生成。",
+      "upstream": {
+        "repo": "open-ani/animeko"
+      },
+      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/livecontainer_icon.png",
+      "category": "utilities",
+      "versions": [
+        {
+          "version": "5.4.3",
+          "buildVersion": "50430",
+          "date": "2026-04-20",
+          "localizedDescription": "上游源文件：ani-5.4.3.ipa",
+          "downloadURL": "https://github.com/open-ani/animeko/releases/download/v5.4.3/ani-5.4.3.ipa",
+          "size": 35360753
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Animeko",
+      "bundleIdentifier": "thewonderofyou.Feather",
+      "developerName": "个人归档",
+      "subtitle": "IPA 归档",
+      "localizedDescription": "从本地 IPA 归档生成。",
+      "upstream": {
+        "repo": "CLARATION/Feather"
+      },
+      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/livecontainer_icon.png",
+      "category": "entertainment",
+      "versions": [
+        {
+          "version": "2.7.0",
+          "buildVersion": "1",
+          "date": "2026-04-20",
+          "localizedDescription": "上游源文件：Feather.ipa",
+          "downloadURL": "https://github.com/CLARATION/Feather/releases/download/v2.7.0/Feather.ipa",
+          "size": 14154834
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Apollo",
+      "bundleIdentifier": "top.jtmonster.jhentai",
+      "developerName": "个人归档",
+      "subtitle": "IPA 归档",
+      "localizedDescription": "从本地 IPA 归档生成。",
+      "upstream": {
+        "repo": "jiangtian616/JHenTai"
+      },
+      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/livecontainer_icon.png",
+      "category": "social",
+      "versions": [
+        {
+          "version": "8.0.12",
+          "buildVersion": "308",
+          "date": "2026-04-20",
+          "localizedDescription": "上游源文件：JHenTai_8.0.12+308.ipa",
+          "downloadURL": "https://github.com/jiangtian616/JHenTai/releases/download/v8.0.12/JHenTai_8.0.12%2B308.ipa",
+          "size": 15739502
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Twitter/X",
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "developerName": "个人归档",
+      "subtitle": "IPA 归档",
+      "localizedDescription": "同一 bundle id 下包含多个 Twitter / X 变体。",
+      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/livecontainer_icon.png",
+      "category": "social",
+      "versions": [
+        {
+          "version": "11.35",
+          "buildVersion": "12",
+          "date": "2026-04-20",
+          "localizedDescription": "源文件：NeoFreeBird-2.2-Twitter-11.35-noFixTwitterLogin.ipa",
+          "downloadURL": "https://github.com/jiz4oh/IPAs/releases/latest/download/NeoFreeBird-2.2-Twitter-11.35-noFixTwitterLogin.ipa",
+          "size": 158452402
+        },
+        {
+          "version": "10.86",
+          "buildVersion": "8",
+          "date": "2026-04-20",
+          "localizedDescription": "源文件：Twitter - [v10.86].ipa",
+          "downloadURL": "https://github.com/jiz4oh/IPAs/releases/latest/download/Twitter%20-%20[v10.86].ipa",
+          "size": 159978862
+        },
+        {
+          "version": "10.16",
+          "buildVersion": "10.16",
+          "date": "2026-04-20",
+          "localizedDescription": "源文件：BHTwitter修复登陆_10.16 2026-03-10 15_00_20.ipa",
+          "downloadURL": "https://github.com/jiz4oh/IPAs/releases/latest/download/BHTwitter%E4%BF%AE%E5%A4%8D%E7%99%BB%E9%99%86_10.16%202026-03-10%2015_00_20.ipa",
+          "size": 120664663
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "嗶咔漫畫",
+      "bundleIdentifier": "pica.test.jgg",
+      "developerName": "个人归档",
+      "subtitle": "IPA 归档",
+      "localizedDescription": "从本地 IPA 归档生成。重复的本地文件会分别保留为独立的 Release 资源。",
+      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/livecontainer_icon.png",
+      "category": "entertainment",
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "2",
+          "date": "2026-04-20",
+          "localizedDescription": "源文件：嗶咔漫畫.ipa",
+          "downloadURL": "https://github.com/jiz4oh/IPAs/releases/latest/download/%E5%97%B6%E5%92%94%E6%BC%AB%E7%95%AB.ipa",
+          "size": 94218078
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "ESign",
+      "bundleIdentifier": "com.example.kazumi",
+      "developerName": "个人归档",
+      "subtitle": "IPA 归档",
+      "localizedDescription": "从本地 IPA 归档生成。",
+      "upstream": {
+        "repo": "Predidit/Kazumi"
+      },
+      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/livecontainer_icon.png",
+      "category": "developer",
+      "versions": [
+        {
+          "version": "2.0.7",
+          "buildVersion": "20007",
+          "date": "2026-04-20",
+          "localizedDescription": "上游源文件：Kazumi_ios_2.0.7_no_sign.ipa",
+          "downloadURL": "https://github.com/Predidit/Kazumi/releases/download/2.0.7/Kazumi_ios_2.0.7_no_sign.ipa",
+          "size": 27866552
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Feather",
+      "bundleIdentifier": "com.xinqiu.yidaapp",
+      "developerName": "个人归档",
+      "subtitle": "IPA 归档",
+      "localizedDescription": "从本地 IPA 归档生成。",
+      "upstream": {
+        "repo": "xiaohucode/yidaRule"
+      },
+      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/livecontainer_icon.png",
+      "category": "developer",
+      "versions": [
+        {
+          "version": "1.3.6",
+          "buildVersion": "1.3.6",
+          "date": "2026-04-20",
+          "localizedDescription": "上游源文件：yidaApp-1.3.6-release-nosign.ipa",
+          "downloadURL": "https://github.com/xiaohucode/yidaRule/releases/download/1.3.6/yidaApp-1.3.6-release-nosign.ipa",
+          "size": 42024703
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "JHenTai",
+      "bundleIdentifier": "top.jtmonster.jhentai",
+      "developerName": "个人归档",
+      "subtitle": "IPA 归档",
+      "localizedDescription": "从本地 IPA 归档生成。",
+      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/livecontainer_icon.png",
+      "category": "entertainment",
+      "versions": [
+        {
+          "version": "8.0.12",
+          "buildVersion": "308",
+          "date": "2026-04-20",
+          "localizedDescription": "上游源文件：JHenTai_8.0.12+308.ipa",
+          "downloadURL": "https://github.com/jiangtian616/JHenTai/releases/download/v8.0.12/JHenTai_8.0.12%2B308.ipa",
+          "size": 15739502
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Kazumi",
+      "bundleIdentifier": "com.example.kazumi",
+      "developerName": "个人归档",
+      "subtitle": "IPA 归档",
+      "localizedDescription": "从本地 IPA 归档生成。",
+      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/livecontainer_icon.png",
+      "category": "entertainment",
+      "versions": [
+        {
+          "version": "2.0.7",
+          "buildVersion": "20007",
+          "date": "2026-04-20",
+          "localizedDescription": "上游源文件：Kazumi_ios_2.0.7_no_sign.ipa",
+          "downloadURL": "https://github.com/Predidit/Kazumi/releases/download/2.0.7/Kazumi_ios_2.0.7_no_sign.ipa",
+          "size": 27866552
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "PiliPala",
+      "bundleIdentifier": "com.guozhigq.pilipala",
+      "developerName": "个人归档",
+      "subtitle": "IPA 归档",
+      "localizedDescription": "从本地 IPA 归档生成。",
+      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/livecontainer_icon.png",
+      "category": "entertainment",
+      "versions": [
+        {
+          "version": "1.0.27",
+          "buildVersion": "1027",
+          "date": "2026-04-20",
+          "localizedDescription": "源文件：Pili-1.0.27.0402.ipa",
+          "downloadURL": "https://github.com/jiz4oh/IPAs/releases/latest/download/Pili-1.0.27.0402.ipa",
+          "size": 21543773
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Simple Live",
+      "bundleIdentifier": "com.xycz.simple-live",
+      "developerName": "个人归档",
+      "subtitle": "IPA 归档",
+      "localizedDescription": "从本地 IPA 归档生成。",
+      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/livecontainer_icon.png",
+      "category": "entertainment",
+      "versions": [
+        {
+          "version": "1.11.4",
+          "buildVersion": "11104",
+          "date": "2026-04-20",
+          "localizedDescription": "源文件：simple_live_1.11.4.ipa",
+          "downloadURL": "https://github.com/jiz4oh/IPAs/releases/latest/download/simple_live_1.11.4.ipa",
+          "size": 19166053
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "微信",
+      "bundleIdentifier": "com.tencent.xin",
+      "developerName": "个人归档",
+      "subtitle": "IPA 归档",
+      "localizedDescription": "同一 bundle id 下包含多个微信变体。",
+      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/livecontainer_icon.png",
+      "category": "social",
+      "versions": [
+        {
+          "version": "8.0.68",
+          "buildVersion": "8.0.68.34",
+          "date": "2026-04-20",
+          "localizedDescription": "源文件：微信_8.0.68_纯净版.ipa",
+          "downloadURL": "https://github.com/jiz4oh/IPAs/releases/latest/download/%E5%BE%AE%E4%BF%A1_8.0.68_%E7%BA%AF%E5%87%80%E7%89%88.ipa",
+          "size": 330012268
+        },
+        {
+          "version": "8.0.57",
+          "buildVersion": "8.0.57.33",
+          "date": "2026-04-20",
+          "localizedDescription": "源文件：微信_8.0.57纯净版.ipa",
+          "downloadURL": "https://github.com/jiz4oh/IPAs/releases/latest/download/%E5%BE%AE%E4%BF%A1_8.0.57%E7%BA%AF%E5%87%80%E7%89%88.ipa",
+          "size": 311741968
+        },
+        {
+          "version": "8.0.57",
+          "buildVersion": "8.0.57.33",
+          "date": "2026-04-20",
+          "localizedDescription": "源文件：WeChat_8.0.57_PKC_0.7.8_qy.xin.ipa",
+          "downloadURL": "https://github.com/jiz4oh/IPAs/releases/latest/download/WeChat_8.0.57_PKC_0.7.8_qy.xin.ipa",
+          "size": 346427262
+        },
+        {
+          "version": "8.0.57",
+          "buildVersion": "8.0.57.33",
+          "date": "2026-04-20",
+          "localizedDescription": "源文件：WeChat_8.0.57_PKC_0.7.8_wx.ipa",
+          "downloadURL": "https://github.com/jiz4oh/IPAs/releases/latest/download/WeChat_8.0.57_PKC_0.7.8_wx.ipa",
+          "size": 346427258
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "是你的益达",
+      "bundleIdentifier": "com.xinqiu.yidaapp",
+      "developerName": "个人归档",
+      "subtitle": "IPA 归档",
+      "localizedDescription": "从本地 IPA 归档生成。",
+      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/livecontainer_icon.png",
+      "category": "other",
+      "versions": [
+        {
+          "version": "1.3.6",
+          "buildVersion": "1.3.6",
+          "date": "2026-04-20",
+          "localizedDescription": "上游源文件：yidaApp-1.3.6-release-nosign.ipa",
+          "downloadURL": "https://github.com/xiaohucode/yidaRule/releases/download/1.3.6/yidaApp-1.3.6-release-nosign.ipa",
+          "size": 42024703
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "今日头条",
+      "bundleIdentifier": "com.ss.iphone.article.NewsSocial",
+      "developerName": "个人归档",
+      "subtitle": "IPA 归档",
+      "localizedDescription": "从本地 IPA 归档生成。",
+      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/livecontainer_icon.png",
+      "category": "social",
+      "versions": [
+        {
+          "version": "11.5.0",
+          "buildVersion": "11.5.0.10",
+          "date": "2026-04-20",
+          "localizedDescription": "源文件：今日头条Pro_11.5.0去广告版.ipa",
+          "downloadURL": "https://github.com/jiz4oh/IPAs/releases/latest/download/%E4%BB%8A%E6%97%A5%E5%A4%B4%E6%9D%A1Pro_11.5.0%E5%8E%BB%E5%B9%BF%E5%91%8A%E7%89%88.ipa",
+          "size": 225195563
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "千阅",
+      "bundleIdentifier": "com.zct2.flReader",
+      "developerName": "个人归档",
+      "subtitle": "IPA 归档",
+      "localizedDescription": "从本地 IPA 归档生成。",
+      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/livecontainer_icon.png",
+      "category": "utilities",
+      "versions": [
+        {
+          "version": "2.8.9",
+          "buildVersion": "4",
+          "date": "2026-04-20",
+          "localizedDescription": "源文件：千阅_2.8.9_解锁会员.ipa",
+          "downloadURL": "https://github.com/jiz4oh/IPAs/releases/latest/download/%E5%8D%83%E9%98%85_2.8.9_%E8%A7%A3%E9%94%81%E4%BC%9A%E5%91%98.ipa",
+          "size": 48601266
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "哔哩哔哩",
+      "bundleIdentifier": "com.bilibili.inter",
+      "developerName": "个人归档",
+      "subtitle": "IPA 归档",
+      "localizedDescription": "从本地 IPA 归档生成。",
+      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/livecontainer_icon.png",
+      "category": "entertainment",
+      "versions": [
+        {
+          "version": "3.19.0",
+          "buildVersion": "77500100",
+          "date": "2026-04-20",
+          "localizedDescription": "源文件：哔哩哔哩_3.19.0.ipa",
+          "downloadURL": "https://github.com/jiz4oh/IPAs/releases/latest/download/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9_3.19.0.ipa",
+          "size": 154611388
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "百度贴吧",
+      "bundleIdentifier": "com.baidu.tieba",
+      "developerName": "个人归档",
+      "subtitle": "IPA 归档",
+      "localizedDescription": "从本地 IPA 归档生成。",
+      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/livecontainer_icon.png",
+      "category": "social",
+      "versions": [
+        {
+          "version": "12.73.1",
+          "buildVersion": "12.73.1.0",
+          "date": "2026-04-20",
+          "localizedDescription": "源文件：百度贴吧_12.73.1_去广告.ipa",
+          "downloadURL": "https://github.com/jiz4oh/IPAs/releases/latest/download/%E7%99%BE%E5%BA%A6%E8%B4%B4%E5%90%A7_12.73.1_%E5%8E%BB%E5%B9%BF%E5%91%8A.ipa",
+          "size": 174453216
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "源阅读",
+      "bundleIdentifier": "com.yuedu.sourceread",
+      "developerName": "个人归档",
+      "subtitle": "IPA 归档",
+      "localizedDescription": "同一 bundle id 下包含多个本地版本。",
+      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/livecontainer_icon.png",
+      "category": "utilities",
+      "versions": [
+        {
+          "version": "1.5.1",
+          "buildVersion": "1.5.1",
+          "date": "2026-04-20",
+          "localizedDescription": "源文件：源阅读_1.5.1_酷卡.ipa",
+          "downloadURL": "https://github.com/jiz4oh/IPAs/releases/latest/download/%E6%BA%90%E9%98%85%E8%AF%BB_1.5.1_%E9%85%B7%E5%8D%A1.ipa",
+          "size": 31839083
+        },
+        {
+          "version": "1.5.0",
+          "buildVersion": "132",
+          "date": "2026-04-20",
+          "localizedDescription": "源文件：源阅读_1.5.0.ipa",
+          "downloadURL": "https://github.com/jiz4oh/IPAs/releases/latest/download/%E6%BA%90%E9%98%85%E8%AF%BB_1.5.0.ipa",
+          "size": 30981072
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "皮皮虾",
+      "bundleIdentifier": "com.bd.iphone.super",
+      "developerName": "个人归档",
+      "subtitle": "IPA 归档",
+      "localizedDescription": "从本地 IPA 归档生成。",
+      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/livecontainer_icon.png",
+      "category": "social",
+      "versions": [
+        {
+          "version": "5.2.0",
+          "buildVersion": "5.2.0.80",
+          "date": "2026-04-20",
+          "localizedDescription": "源文件：皮皮虾_5.2.0_1743917485.ipa",
+          "downloadURL": "https://github.com/jiz4oh/IPAs/releases/latest/download/%E7%9A%AE%E7%9A%AE%E8%99%BE_5.2.0_1743917485.ipa",
+          "size": 134201582
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "香色闺阁",
+      "bundleIdentifier": "com.appbox.StandarReader",
+      "developerName": "个人归档",
+      "subtitle": "IPA 归档",
+      "localizedDescription": "从本地 IPA 归档生成。",
+      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/livecontainer_icon.png",
+      "category": "utilities",
+      "versions": [
+        {
+          "version": "2.56.1",
+          "buildVersion": "2.56.1",
+          "date": "2026-04-20",
+          "localizedDescription": "源文件：香色闺阁_2.56.1.ipa",
+          "downloadURL": "https://github.com/jiz4oh/IPAs/releases/latest/download/%E9%A6%99%E8%89%B2%E9%97%BA%E9%98%81_2.56.1.ipa",
+          "size": 2849753
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "小红书",
+      "bundleIdentifier": "com.xingin.discover",
+      "developerName": "个人归档",
+      "subtitle": "IPA 归档",
+      "localizedDescription": "从本地 IPA 归档生成。",
+      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/livecontainer_icon.png",
+      "category": "social",
+      "versions": [
+        {
+          "version": "8.92",
+          "buildVersion": "8920227",
+          "date": "2026-04-20",
+          "localizedDescription": "源文件：小红书_8.92_去水印.ipa",
+          "downloadURL": "https://github.com/jiz4oh/IPAs/releases/latest/download/%E5%B0%8F%E7%BA%A2%E4%B9%A6_8.92_%E5%8E%BB%E6%B0%B4%E5%8D%B0.ipa",
+          "size": 177486804
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "轻阅读",
+      "bundleIdentifier": "com.q9uo11.myread",
+      "developerName": "个人归档",
+      "subtitle": "IPA 归档",
+      "localizedDescription": "同一 bundle id 下包含多个本地版本。",
+      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/livecontainer_icon.png",
+      "category": "utilities",
+      "versions": [
+        {
+          "version": "3.4.0",
+          "buildVersion": "26",
+          "date": "2026-04-20",
+          "localizedDescription": "源文件：qread_3.4.0.ipa",
+          "downloadURL": "https://github.com/jiz4oh/IPAs/releases/latest/download/qread_3.4.0.ipa",
+          "size": 27893301
+        },
+        {
+          "version": "3.3.4",
+          "buildVersion": "25",
+          "date": "2026-04-20",
+          "localizedDescription": "源文件：轻阅读-3.3.4.ipa",
+          "downloadURL": "https://github.com/jiz4oh/IPAs/releases/latest/download/%E8%BD%BB%E9%98%85%E8%AF%BB-3.3.4.ipa",
+          "size": 27677924
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "豆瓣",
+      "bundleIdentifier": "com.douban.frodo",
+      "developerName": "个人归档",
+      "subtitle": "IPA 归档",
+      "localizedDescription": "从本地 IPA 归档生成。",
+      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/livecontainer_icon.png",
+      "category": "social",
+      "versions": [
+        {
+          "version": "7.100.0",
+          "buildVersion": "071000003",
+          "date": "2026-04-20",
+          "localizedDescription": "源文件：豆瓣_7.100.0_去广告.ipa",
+          "downloadURL": "https://github.com/jiz4oh/IPAs/releases/latest/download/%E8%B1%86%E7%93%A3_7.100.0_%E5%8E%BB%E5%B9%BF%E5%91%8A.ipa",
+          "size": 101964961
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "起点读书",
+      "bundleIdentifier": "m.qidian.QDReaderAppStore",
+      "developerName": "个人归档",
+      "subtitle": "IPA 归档",
+      "localizedDescription": "从本地 IPA 归档生成。",
+      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/livecontainer_icon.png",
+      "category": "utilities",
+      "versions": [
+        {
+          "version": "5.9.408",
+          "buildVersion": "2668",
+          "date": "2026-04-20",
+          "localizedDescription": "源文件：起点读书_5.9.408_NoAds.ipa",
+          "downloadURL": "https://github.com/jiz4oh/IPAs/releases/latest/download/%E8%B5%B7%E7%82%B9%E8%AF%BB%E4%B9%A6_5.9.408_NoAds.ipa",
+          "size": 99457131
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "酷安",
+      "bundleIdentifier": "com.coolapk.app",
+      "developerName": "个人归档",
+      "subtitle": "IPA 归档",
+      "localizedDescription": "从本地 IPA 归档生成。",
+      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/livecontainer_icon.png",
+      "category": "social",
+      "versions": [
+        {
+          "version": "15.3.1",
+          "buildVersion": "2505221",
+          "date": "2026-04-20",
+          "localizedDescription": "源文件：酷安_15.3.1_去广告.ipa",
+          "downloadURL": "https://github.com/jiz4oh/IPAs/releases/latest/download/%E9%85%B7%E5%AE%89_15.3.1_%E5%8E%BB%E5%B9%BF%E5%91%8A.ipa",
+          "size": 46515660
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "闲鱼",
+      "bundleIdentifier": "com.taobao.fleamarket",
+      "developerName": "个人归档",
+      "subtitle": "IPA 归档",
+      "localizedDescription": "从本地 IPA 归档生成。",
+      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/livecontainer_icon.png",
+      "category": "lifestyle",
+      "versions": [
+        {
+          "version": "7.23.40",
+          "buildVersion": "50269082",
+          "date": "2026-04-20",
+          "localizedDescription": "源文件：闲鱼_7.23.40_去广告.ipa",
+          "downloadURL": "https://github.com/jiz4oh/IPAs/releases/latest/download/%E9%97%B2%E9%B1%BC_7.23.40_%E5%8E%BB%E5%B9%BF%E5%91%8A.ipa",
+          "size": 135257710
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    }
+  ],
+}
