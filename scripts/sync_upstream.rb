@@ -54,31 +54,47 @@ def extract_metadata(ipa_path)
   end
 end
 
+def asset_matches?(asset_name, patterns)
+  patterns.any? { |pattern| File.fnmatch(pattern, asset_name, File::FNM_CASEFOLD) }
+end
+
 apps_json = JSON.parse(File.read(APPS_JSON_PATH))
 managed_apps = apps_json.fetch("apps").select { |app| app["upstream"].is_a?(Hash) && app["upstream"]["repo"] }
 
 Dir.mktmpdir("upstream-ipa") do |tmpdir|
   managed_apps.each do |app|
-    repo = app.fetch("upstream").fetch("repo")
+    upstream = app.fetch("upstream")
+    repo = upstream.fetch("repo")
+    asset_patterns = Array(upstream["assetPatterns"] || ["*.ipa"])
     release = github_get("/repos/#{repo}/releases/latest")
-    asset = release.fetch("assets").find { |item| item["name"].end_with?(".ipa") }
-    raise "No IPA asset found for #{repo}" unless asset
-    version_entry = app.fetch("versions").first
-    raise "No version entry found for #{app.fetch("name")}" unless version_entry
+    assets = release.fetch("assets").select { |item| item["name"].end_with?(".ipa") && asset_matches?(item["name"], asset_patterns) }
+    raise "No IPA asset found for #{repo}" if assets.empty?
 
-    ipa_path = File.join(tmpdir, asset["name"])
-    URI.open(asset.fetch("browser_download_url")) do |remote|
-      File.binwrite(ipa_path, remote.read)
+    versions = app.fetch("versions")
+    release_date = (release["published_at"] || DATE)[0, 10]
+
+    assets.each_with_index do |asset, index|
+      ipa_path = File.join(tmpdir, asset["name"])
+      URI.open(asset.fetch("browser_download_url")) do |remote|
+        File.binwrite(ipa_path, remote.read)
+      end
+
+      metadata = extract_metadata(ipa_path)
+      app["bundleIdentifier"] = metadata.fetch("bundleIdentifier") if index.zero?
+
+      version_entry = versions.find { |item| item["downloadURL"] == asset.fetch("browser_download_url") }
+      unless version_entry
+        version_entry = {}
+        versions.unshift(version_entry)
+      end
+
+      version_entry["version"] = metadata.fetch("version")
+      version_entry["buildVersion"] = metadata.fetch("buildVersion")
+      version_entry["date"] = release_date
+      version_entry["localizedDescription"] = "上游源文件：#{asset.fetch("name")}"
+      version_entry["downloadURL"] = asset.fetch("browser_download_url")
+      version_entry["size"] = asset.fetch("size")
     end
-
-    metadata = extract_metadata(ipa_path)
-    app["bundleIdentifier"] = metadata.fetch("bundleIdentifier")
-    version_entry["version"] = metadata.fetch("version")
-    version_entry["buildVersion"] = metadata.fetch("buildVersion")
-    version_entry["date"] = DATE
-    version_entry["localizedDescription"] = "上游源文件：#{asset.fetch("name")}"
-    version_entry["downloadURL"] = asset.fetch("browser_download_url")
-    version_entry["size"] = asset.fetch("size")
   end
 end
 
