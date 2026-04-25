@@ -238,7 +238,7 @@
       "subtitle": "IPA 归档",
       "localizedDescription": "从本地 IPA 归档生成。",
       "upstream": {
-        "repo": "guozhigq/pilipala",
+        "repo": "guozhigq/pilipala"
       },
       "iconURL": "https://raw.githubusercontent.com/guozhigq/pilipala/main/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024%401x.png",
       "category": "entertainment",

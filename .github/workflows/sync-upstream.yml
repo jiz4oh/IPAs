@@ -16,6 +16,9 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Validate apps.json
+        run: ruby -rjson -e 'JSON.parse(File.read("apps.json"))'
+
       - name: Sync managed upstream apps
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
