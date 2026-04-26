@@ -25,8 +25,11 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
+        "entitlements": [
+
+        ],
+        "privacy": {
+        }
       }
     },
     {
@@ -51,8 +54,11 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
+        "entitlements": [
+
+        ],
+        "privacy": {
+        }
       }
     },
     {
@@ -74,8 +80,11 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
+        "entitlements": [
+
+        ],
+        "privacy": {
+        }
       }
     },
     {
@@ -94,6 +103,22 @@
       "category": "social",
       "versions": [
         {
+          "version": "11.35",
+          "buildVersion": "12",
+          "date": "2025-11-03",
+          "localizedDescription": "上游源文件：NeoFreeBird-2.2-Twitter-11.35.ipa",
+          "downloadURL": "https://github.com/NeoFreeBird/app/releases/download/2.2/NeoFreeBird-2.2-Twitter-11.35.ipa",
+          "size": 153108663
+        },
+        {
+          "version": "11.35",
+          "buildVersion": "12",
+          "date": "2025-11-03",
+          "localizedDescription": "上游源文件：NeoFreeBird-2.2-Twitter-11.35-noFixTwitterLogin.ipa",
+          "downloadURL": "https://github.com/NeoFreeBird/app/releases/download/2.2/NeoFreeBird-2.2-Twitter-11.35-noFixTwitterLogin.ipa",
+          "size": 158452402
+        },
+        {
           "version": "10.16",
           "buildVersion": "10.16",
           "date": "2026-04-20",
@@ -103,8 +128,11 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
+        "entitlements": [
+
+        ],
+        "privacy": {
+        }
       }
     },
     {
@@ -126,8 +154,11 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
+        "entitlements": [
+
+        ],
+        "privacy": {
+        }
       }
     },
     {
@@ -149,8 +180,11 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
+        "entitlements": [
+
+        ],
+        "privacy": {
+        }
       }
     },
     {
@@ -166,6 +200,14 @@
       "category": "developer",
       "versions": [
         {
+          "version": "2.8.2",
+          "buildVersion": "63ec47d071c188f833fd607f152b58a5bc34ab9c",
+          "date": "2026-04-22",
+          "localizedDescription": "上游源文件：Feather.ipa",
+          "downloadURL": "https://github.com/CLARATION/Feather/releases/download/v2.8.2/Feather.ipa",
+          "size": 14242031
+        },
+        {
           "version": "2.7.0",
           "buildVersion": "1",
           "date": "2026-04-05",
@@ -175,8 +217,11 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
+        "entitlements": [
+
+        ],
+        "privacy": {
+        }
       }
     },
     {
@@ -201,8 +246,11 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
+        "entitlements": [
+
+        ],
+        "privacy": {
+        }
       }
     },
     {
@@ -218,6 +266,14 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "2.0.8",
+          "buildVersion": "20008",
+          "date": "2026-04-24",
+          "localizedDescription": "上游源文件：Kazumi_ios_2.0.8_no_sign.ipa",
+          "downloadURL": "https://github.com/Predidit/Kazumi/releases/download/2.0.8/Kazumi_ios_2.0.8_no_sign.ipa",
+          "size": 27886967
+        },
+        {
           "version": "2.0.7",
           "buildVersion": "20007",
           "date": "2026-04-09",
@@ -227,8 +283,11 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
+        "entitlements": [
+
+        ],
+        "privacy": {
+        }
       }
     },
     {
@@ -246,6 +305,14 @@
         {
           "version": "1.0.27",
           "buildVersion": "1027",
+          "date": "2025-04-02",
+          "localizedDescription": "上游源文件：Pili-1.0.27.0402.ipa",
+          "downloadURL": "https://github.com/guozhigq/pilipala/releases/download/v1.0.27.0402/Pili-1.0.27.0402.ipa",
+          "size": 21543773
+        },
+        {
+          "version": "1.0.27",
+          "buildVersion": "1027",
           "date": "2026-04-20",
           "localizedDescription": "源文件：Pili-1.0.27.0402.ipa",
           "downloadURL": "https://github.com/jiz4oh/IPAs/releases/download/latest/Pili-1.0.27.0402.ipa",
@@ -253,8 +320,11 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
+        "entitlements": [
+
+        ],
+        "privacy": {
+        }
       }
     },
     {
@@ -276,8 +346,11 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
+        "entitlements": [
+
+        ],
+        "privacy": {
+        }
       }
     },
     {
@@ -307,8 +380,11 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
+        "entitlements": [
+
+        ],
+        "privacy": {
+        }
       }
     },
     {
@@ -330,8 +406,11 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
+        "entitlements": [
+
+        ],
+        "privacy": {
+        }
       }
     },
     {
@@ -353,8 +432,11 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
+        "entitlements": [
+
+        ],
+        "privacy": {
+        }
       }
     },
     {
@@ -370,6 +452,14 @@
       "category": "other",
       "versions": [
         {
+          "version": "1.3.8",
+          "buildVersion": "1.3.8",
+          "date": "2026-04-24",
+          "localizedDescription": "上游源文件：yidaApp-1.3.7-release-nosign.ipa",
+          "downloadURL": "https://github.com/xiaohucode/yidaRule/releases/download/1.3.8/yidaApp-1.3.7-release-nosign.ipa",
+          "size": 41649349
+        },
+        {
           "version": "1.3.6",
           "buildVersion": "1.3.6",
           "date": "2026-04-11",
@@ -379,8 +469,11 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
+        "entitlements": [
+
+        ],
+        "privacy": {
+        }
       }
     },
     {
@@ -402,8 +495,11 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
+        "entitlements": [
+
+        ],
+        "privacy": {
+        }
       }
     },
     {
@@ -425,8 +521,11 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
+        "entitlements": [
+
+        ],
+        "privacy": {
+        }
       }
     },
     {
@@ -448,8 +547,11 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
+        "entitlements": [
+
+        ],
+        "privacy": {
+        }
       }
     },
     {
@@ -471,8 +573,11 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
+        "entitlements": [
+
+        ],
+        "privacy": {
+        }
       }
     },
     {
@@ -502,8 +607,11 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
+        "entitlements": [
+
+        ],
+        "privacy": {
+        }
       }
     },
     {
@@ -525,8 +633,11 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
+        "entitlements": [
+
+        ],
+        "privacy": {
+        }
       }
     },
     {
@@ -548,8 +659,11 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
+        "entitlements": [
+
+        ],
+        "privacy": {
+        }
       }
     },
     {
@@ -571,8 +685,11 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
+        "entitlements": [
+
+        ],
+        "privacy": {
+        }
       }
     },
     {
@@ -602,8 +719,11 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
+        "entitlements": [
+
+        ],
+        "privacy": {
+        }
       }
     },
     {
@@ -625,8 +745,11 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
+        "entitlements": [
+
+        ],
+        "privacy": {
+        }
       }
     },
     {
@@ -648,8 +771,11 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
+        "entitlements": [
+
+        ],
+        "privacy": {
+        }
       }
     },
     {
@@ -671,8 +797,11 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
+        "entitlements": [
+
+        ],
+        "privacy": {
+        }
       }
     },
     {
@@ -694,8 +823,11 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
+        "entitlements": [
+
+        ],
+        "privacy": {
+        }
       }
     }
   ]
