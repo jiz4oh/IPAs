@@ -452,6 +452,14 @@
       "category": "other",
       "versions": [
         {
+          "version": "1.3.9",
+          "buildVersion": "1.3.9",
+          "date": "2026-04-29",
+          "localizedDescription": "上游源文件：yidaApp-1.3.9-release-nosign.ipa",
+          "downloadURL": "https://github.com/xiaohucode/yidaRule/releases/download/1.3.9/yidaApp-1.3.9-release-nosign.ipa",
+          "size": 41064092
+        },
+        {
           "version": "1.3.8",
           "buildVersion": "1.3.8",
           "date": "2026-04-24",
