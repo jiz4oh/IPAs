@@ -204,6 +204,14 @@
           "buildVersion": "63ec47d071c188f833fd607f152b58a5bc34ab9c",
           "date": "2026-04-22",
           "localizedDescription": "上游源文件：Feather.ipa",
+          "downloadURL": "https://github.com/claration/Feather/releases/download/v2.8.2/Feather.ipa",
+          "size": 14242031
+        },
+        {
+          "version": "2.8.2",
+          "buildVersion": "63ec47d071c188f833fd607f152b58a5bc34ab9c",
+          "date": "2026-04-22",
+          "localizedDescription": "上游源文件：Feather.ipa",
           "downloadURL": "https://github.com/CLARATION/Feather/releases/download/v2.8.2/Feather.ipa",
           "size": 14242031
         },
