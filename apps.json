@@ -137,7 +137,7 @@
     },
     {
       "name": "嗶咔漫畫",
-      "bundleIdentifier": "pica.test.jgg",
+      "bundleIdentifier": "com.picacomic.picacg.picacg",
       "developerName": "个人归档",
       "subtitle": "IPA 归档",
       "localizedDescription": "从本地 IPA 归档生成。重复的本地文件会分别保留为独立的 Release 资源。",
@@ -145,12 +145,12 @@
       "category": "entertainment",
       "versions": [
         {
-          "version": "1.0",
-          "buildVersion": "2",
-          "date": "2026-04-20",
-          "localizedDescription": "源文件：BikaComic.ipa",
-          "downloadURL": "https://github.com/jiz4oh/IPAs/releases/download/latest/BikaComic.ipa",
-          "size": 94218078
+          "version": "2.5.82",
+          "buildVersion": "2026041804",
+          "date": "2026-05-08",
+          "localizedDescription": "源文件：PicACG-v2.5.82-unsigned.ipa",
+          "downloadURL": "https://github.com/jiz4oh/IPAs/releases/download/latest/PicACG-v2.5.82-unsigned.ipa",
+          "size": 16328199
         }
       ],
       "appPermissions": {
