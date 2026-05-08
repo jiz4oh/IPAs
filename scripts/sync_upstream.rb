@@ -3,10 +3,9 @@
 require "json"
 require "net/http"
 require "open-uri"
-require "open3"
-require "tempfile"
 require "tmpdir"
 require "uri"
+require_relative "extract_ipa_metadata"
 
 ROOT = File.expand_path("..", __dir__)
 APPS_JSON_PATH = File.join(ROOT, "apps.json")
@@ -25,32 +24,6 @@ def github_get(path)
       raise "GitHub API request failed for #{path}: #{response.code} #{response.body}"
     end
     JSON.parse(response.body)
-  end
-end
-
-def read_plist_value(plist_path, key)
-  output, status = Open3.capture2("plutil", "-extract", key, "raw", "-o", "-", plist_path)
-  return nil unless status.success?
-  value = output.strip
-  value.empty? ? nil : value
-end
-
-def extract_metadata(ipa_path)
-  entries, status = Open3.capture2("zipinfo", "-1", ipa_path)
-  raise "Failed to inspect IPA: #{ipa_path}" unless status.success?
-
-  info_path = entries.lines.find { |line| line.match?(%r{^Payload/[^/]+\.app/Info\.plist$}) }&.strip
-  raise "Info.plist not found in #{ipa_path}" unless info_path
-
-  Tempfile.create(["Info", ".plist"]) do |plist|
-    system("unzip", "-p", ipa_path, info_path, out: plist.path, err: File::NULL) || raise("Failed to extract #{info_path}")
-    plist.flush
-
-    {
-      "bundleIdentifier" => read_plist_value(plist.path, "CFBundleIdentifier"),
-      "version" => read_plist_value(plist.path, "CFBundleShortVersionString"),
-      "buildVersion" => read_plist_value(plist.path, "CFBundleVersion")
-    }
   end
 end
 
@@ -79,7 +52,7 @@ Dir.mktmpdir("upstream-ipa") do |tmpdir|
         File.binwrite(ipa_path, remote.read)
       end
 
-      metadata = extract_metadata(ipa_path)
+      metadata = IpaMetadata.extract(ipa_path)
       app["bundleIdentifier"] = metadata.fetch("bundleIdentifier") if index.zero?
 
       version_entry = versions.find { |item| item["downloadURL"] == asset.fetch("browser_download_url") }
