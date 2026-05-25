@@ -45,6 +45,14 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "5.5.1",
+          "buildVersion": "50510",
+          "date": "2026-05-24",
+          "localizedDescription": "上游源文件：ani-5.5.1.ipa",
+          "downloadURL": "https://github.com/open-ani/animeko/releases/download/v5.5.1/ani-5.5.1.ipa",
+          "size": 29923207
+        },
+        {
           "version": "5.4.4",
           "buildVersion": "50440",
           "date": "2026-05-13",
