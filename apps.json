@@ -433,10 +433,18 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.12.5",
+          "buildVersion": "11205",
+          "date": "2026-06-05",
+          "localizedDescription": "https://github.com/June6699/dart_simple_live/issues",
+          "downloadURL": "https://github.com/jiz4oh/IPAs/releases/download/latest/simple_live_1.12.5.ipa",
+          "size": 29617646 
+        },
+        {
           "version": "1.11.4",
           "buildVersion": "11104",
           "date": "2026-04-20",
-          "localizedDescription": "源文件：simple_live_1.11.4.ipa",
+          "localizedDescription": "https://github.com/xiaoyaocz/dart_simple_live",
           "downloadURL": "https://github.com/jiz4oh/IPAs/releases/download/latest/simple_live_1.11.4.ipa",
           "size": 19166053
         }
