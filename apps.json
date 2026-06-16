@@ -96,12 +96,30 @@
     {
       "name": "Apollo",
       "bundleIdentifier": "com.christianselig.Apollo",
-      "developerName": "个人归档",
-      "subtitle": "IPA 归档",
-      "localizedDescription": "从本地 IPA 归档生成。",
+      "developerName": "Apollo Reborn",
+      "subtitle": "GitHub Release",
+      "localizedDescription": "同步自 Apollo-Reborn 上游发布。",
+      "upstream": {
+        "repo": "Apollo-Reborn/Apollo-Reborn",
+        "assetPatterns": [
+          "Apollo-Reborn-*.ipa"
+        ],
+        "excludePatterns": [
+          "*-GLASS*.ipa",
+          "*-NOEXTENSIONS.ipa"
+        ]
+      },
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a1/d8/a6/a1d8a63c-1534-2a04-b0fe-3de6e9c800b9/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/512x512bb.jpg",
       "category": "social",
       "versions": [
+        {
+          "version": "3.2.0",
+          "buildVersion": "289",
+          "date": "2026-06-16",
+          "localizedDescription": "上游源文件：Apollo-Reborn-3.2.0.ipa",
+          "downloadURL": "https://github.com/Apollo-Reborn/Apollo-Reborn/releases/download/v1.15.11_3.2.0/Apollo-Reborn-3.2.0.ipa",
+          "size": 89292182
+        },
         {
           "version": "1.15.11",
           "buildVersion": "2.2.1",

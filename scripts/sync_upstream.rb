@@ -31,6 +31,10 @@ def asset_matches?(asset_name, patterns)
   patterns.any? { |pattern| File.fnmatch(pattern, asset_name, File::FNM_CASEFOLD) }
 end
 
+def asset_excluded?(asset_name, patterns)
+  patterns.any? { |pattern| File.fnmatch(pattern, asset_name, File::FNM_CASEFOLD) }
+end
+
 apps_json = JSON.parse(File.read(APPS_JSON_PATH))
 managed_apps = apps_json.fetch("apps").select { |app| app["upstream"].is_a?(Hash) && app["upstream"]["repo"] }
 
@@ -39,8 +43,13 @@ Dir.mktmpdir("upstream-ipa") do |tmpdir|
     upstream = app.fetch("upstream")
     repo = upstream.fetch("repo")
     asset_patterns = Array(upstream["assetPatterns"] || ["*.ipa"])
+    exclude_patterns = Array(upstream["excludePatterns"] || [])
     release = github_get("/repos/#{repo}/releases/latest")
-    assets = release.fetch("assets").select { |item| item["name"].end_with?(".ipa") && asset_matches?(item["name"], asset_patterns) }
+    assets = release.fetch("assets").select do |item|
+      item["name"].end_with?(".ipa") &&
+        asset_matches?(item["name"], asset_patterns) &&
+        !asset_excluded?(item["name"], exclude_patterns)
+    end
     raise "No IPA asset found for #{repo}" if assets.empty?
 
     versions = app.fetch("versions")
