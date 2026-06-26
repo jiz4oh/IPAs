@@ -25,11 +25,8 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [
-
-        ],
-        "privacy": {
-        }
+        "entitlements": [],
+        "privacy": {}
       }
     },
     {
@@ -86,11 +83,8 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [
-
-        ],
-        "privacy": {
-        }
+        "entitlements": [],
+        "privacy": {}
       }
     },
     {
@@ -113,6 +107,14 @@
       "category": "social",
       "versions": [
         {
+          "version": "3.3.0",
+          "buildVersion": "290",
+          "date": "2026-06-26",
+          "localizedDescription": "上游源文件：Apollo-Reborn-3.3.0.ipa",
+          "downloadURL": "https://github.com/Apollo-Reborn/Apollo-Reborn/releases/download/v1.15.11_3.3.0/Apollo-Reborn-3.3.0.ipa",
+          "size": 89910361
+        },
+        {
           "version": "3.2.0",
           "buildVersion": "289",
           "date": "2026-06-16",
@@ -130,11 +132,8 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [
-
-        ],
-        "privacy": {
-        }
+        "entitlements": [],
+        "privacy": {}
       }
     },
     {
@@ -178,11 +177,8 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [
-
-        ],
-        "privacy": {
-        }
+        "entitlements": [],
+        "privacy": {}
       }
     },
     {
@@ -204,11 +200,8 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [
-
-        ],
-        "privacy": {
-        }
+        "entitlements": [],
+        "privacy": {}
       }
     },
     {
@@ -230,11 +223,8 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [
-
-        ],
-        "privacy": {
-        }
+        "entitlements": [],
+        "privacy": {}
       }
     },
     {
@@ -275,11 +265,8 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [
-
-        ],
-        "privacy": {
-        }
+        "entitlements": [],
+        "privacy": {}
       }
     },
     {
@@ -320,11 +307,8 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [
-
-        ],
-        "privacy": {
-        }
+        "entitlements": [],
+        "privacy": {}
       }
     },
     {
@@ -339,6 +323,14 @@
       "iconURL": "https://raw.githubusercontent.com/Predidit/Kazumi/main/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024%401x.png",
       "category": "entertainment",
       "versions": [
+        {
+          "version": "2.1.7",
+          "buildVersion": "20107",
+          "date": "2026-06-25",
+          "localizedDescription": "上游源文件：Kazumi_ios_2.1.7_no_sign.ipa",
+          "downloadURL": "https://github.com/Predidit/Kazumi/releases/download/2.1.7/Kazumi_ios_2.1.7_no_sign.ipa",
+          "size": 28341165
+        },
         {
           "version": "2.1.6",
           "buildVersion": "20106",
@@ -421,11 +413,8 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [
-
-        ],
-        "privacy": {
-        }
+        "entitlements": [],
+        "privacy": {}
       }
     },
     {
@@ -458,11 +447,8 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [
-
-        ],
-        "privacy": {
-        }
+        "entitlements": [],
+        "privacy": {}
       }
     },
     {
@@ -492,11 +478,8 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [
-
-        ],
-        "privacy": {
-        }
+        "entitlements": [],
+        "privacy": {}
       }
     },
     {
@@ -526,11 +509,8 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [
-
-        ],
-        "privacy": {
-        }
+        "entitlements": [],
+        "privacy": {}
       }
     },
     {
@@ -552,11 +532,8 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [
-
-        ],
-        "privacy": {
-        }
+        "entitlements": [],
+        "privacy": {}
       }
     },
     {
@@ -578,11 +555,8 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [
-
-        ],
-        "privacy": {
-        }
+        "entitlements": [],
+        "privacy": {}
       }
     },
     {
@@ -663,11 +637,8 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [
-
-        ],
-        "privacy": {
-        }
+        "entitlements": [],
+        "privacy": {}
       }
     },
     {
@@ -689,11 +660,8 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [
-
-        ],
-        "privacy": {
-        }
+        "entitlements": [],
+        "privacy": {}
       }
     },
     {
@@ -715,11 +683,8 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [
-
-        ],
-        "privacy": {
-        }
+        "entitlements": [],
+        "privacy": {}
       }
     },
     {
@@ -741,11 +706,8 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [
-
-        ],
-        "privacy": {
-        }
+        "entitlements": [],
+        "privacy": {}
       }
     },
     {
@@ -767,11 +729,8 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [
-
-        ],
-        "privacy": {
-        }
+        "entitlements": [],
+        "privacy": {}
       }
     },
     {
@@ -801,11 +760,8 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [
-
-        ],
-        "privacy": {
-        }
+        "entitlements": [],
+        "privacy": {}
       }
     },
     {
@@ -827,11 +783,8 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [
-
-        ],
-        "privacy": {
-        }
+        "entitlements": [],
+        "privacy": {}
       }
     },
     {
@@ -853,11 +806,8 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [
-
-        ],
-        "privacy": {
-        }
+        "entitlements": [],
+        "privacy": {}
       }
     },
     {
@@ -879,11 +829,8 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [
-
-        ],
-        "privacy": {
-        }
+        "entitlements": [],
+        "privacy": {}
       }
     },
     {
@@ -913,11 +860,8 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [
-
-        ],
-        "privacy": {
-        }
+        "entitlements": [],
+        "privacy": {}
       }
     },
     {
@@ -939,11 +883,8 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [
-
-        ],
-        "privacy": {
-        }
+        "entitlements": [],
+        "privacy": {}
       }
     },
     {
@@ -965,11 +906,8 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [
-
-        ],
-        "privacy": {
-        }
+        "entitlements": [],
+        "privacy": {}
       }
     },
     {
@@ -991,11 +929,8 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [
-
-        ],
-        "privacy": {
-        }
+        "entitlements": [],
+        "privacy": {}
       }
     },
     {
@@ -1017,11 +952,8 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [
-
-        ],
-        "privacy": {
-        }
+        "entitlements": [],
+        "privacy": {}
       }
     }
   ]
