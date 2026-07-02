@@ -25,8 +25,11 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
+        "entitlements": [
+
+        ],
+        "privacy": {
+        }
       }
     },
     {
@@ -91,8 +94,11 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
+        "entitlements": [
+
+        ],
+        "privacy": {
+        }
       }
     },
     {
@@ -140,8 +146,11 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
+        "entitlements": [
+
+        ],
+        "privacy": {
+        }
       }
     },
     {
@@ -185,8 +194,11 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
+        "entitlements": [
+
+        ],
+        "privacy": {
+        }
       }
     },
     {
@@ -208,8 +220,11 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
+        "entitlements": [
+
+        ],
+        "privacy": {
+        }
       }
     },
     {
@@ -231,8 +246,11 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
+        "entitlements": [
+
+        ],
+        "privacy": {
+        }
       }
     },
     {
@@ -273,8 +291,11 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
+        "entitlements": [
+
+        ],
+        "privacy": {
+        }
       }
     },
     {
@@ -289,6 +310,14 @@
       "iconURL": "https://raw.githubusercontent.com/jiangtian616/JHenTai/master/assets/icon/JHenTai_512.png",
       "category": "entertainment",
       "versions": [
+        {
+          "version": "8.0.14",
+          "buildVersion": "317",
+          "date": "2026-07-01",
+          "localizedDescription": "上游源文件：JHenTai_8.0.14+317.ipa",
+          "downloadURL": "https://github.com/jiangtian616/JHenTai/releases/download/v8.0.14/JHenTai_8.0.14%2B317.ipa",
+          "size": 15767125
+        },
         {
           "version": "8.0.13",
           "buildVersion": "312",
@@ -315,8 +344,11 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
+        "entitlements": [
+
+        ],
+        "privacy": {
+        }
       }
     },
     {
@@ -421,8 +453,11 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
+        "entitlements": [
+
+        ],
+        "privacy": {
+        }
       }
     },
     {
@@ -455,8 +490,11 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
+        "entitlements": [
+
+        ],
+        "privacy": {
+        }
       }
     },
     {
@@ -486,8 +524,11 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
+        "entitlements": [
+
+        ],
+        "privacy": {
+        }
       }
     },
     {
@@ -517,8 +558,11 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
+        "entitlements": [
+
+        ],
+        "privacy": {
+        }
       }
     },
     {
@@ -540,8 +584,11 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
+        "entitlements": [
+
+        ],
+        "privacy": {
+        }
       }
     },
     {
@@ -563,8 +610,11 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
+        "entitlements": [
+
+        ],
+        "privacy": {
+        }
       }
     },
     {
@@ -645,8 +695,11 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
+        "entitlements": [
+
+        ],
+        "privacy": {
+        }
       }
     },
     {
@@ -668,8 +721,11 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
+        "entitlements": [
+
+        ],
+        "privacy": {
+        }
       }
     },
     {
@@ -691,8 +747,11 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
+        "entitlements": [
+
+        ],
+        "privacy": {
+        }
       }
     },
     {
@@ -714,8 +773,11 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
+        "entitlements": [
+
+        ],
+        "privacy": {
+        }
       }
     },
     {
@@ -737,8 +799,11 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
+        "entitlements": [
+
+        ],
+        "privacy": {
+        }
       }
     },
     {
@@ -768,8 +833,11 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
+        "entitlements": [
+
+        ],
+        "privacy": {
+        }
       }
     },
     {
@@ -791,8 +859,11 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
+        "entitlements": [
+
+        ],
+        "privacy": {
+        }
       }
     },
     {
@@ -814,8 +885,11 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
+        "entitlements": [
+
+        ],
+        "privacy": {
+        }
       }
     },
     {
@@ -837,8 +911,11 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
+        "entitlements": [
+
+        ],
+        "privacy": {
+        }
       }
     },
     {
@@ -868,8 +945,11 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
+        "entitlements": [
+
+        ],
+        "privacy": {
+        }
       }
     },
     {
@@ -891,8 +971,11 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
+        "entitlements": [
+
+        ],
+        "privacy": {
+        }
       }
     },
     {
@@ -914,8 +997,11 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
+        "entitlements": [
+
+        ],
+        "privacy": {
+        }
       }
     },
     {
@@ -937,8 +1023,11 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
+        "entitlements": [
+
+        ],
+        "privacy": {
+        }
       }
     },
     {
@@ -960,8 +1049,11 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
+        "entitlements": [
+
+        ],
+        "privacy": {
+        }
       }
     }
   ]
