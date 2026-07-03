@@ -25,11 +25,8 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [
-
-        ],
-        "privacy": {
-        }
+        "entitlements": [],
+        "privacy": {}
       }
     },
     {
@@ -94,11 +91,8 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [
-
-        ],
-        "privacy": {
-        }
+        "entitlements": [],
+        "privacy": {}
       }
     },
     {
@@ -146,11 +140,8 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [
-
-        ],
-        "privacy": {
-        }
+        "entitlements": [],
+        "privacy": {}
       }
     },
     {
@@ -194,11 +185,8 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [
-
-        ],
-        "privacy": {
-        }
+        "entitlements": [],
+        "privacy": {}
       }
     },
     {
@@ -220,11 +208,8 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [
-
-        ],
-        "privacy": {
-        }
+        "entitlements": [],
+        "privacy": {}
       }
     },
     {
@@ -246,11 +231,8 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [
-
-        ],
-        "privacy": {
-        }
+        "entitlements": [],
+        "privacy": {}
       }
     },
     {
@@ -291,11 +273,8 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [
-
-        ],
-        "privacy": {
-        }
+        "entitlements": [],
+        "privacy": {}
       }
     },
     {
@@ -344,11 +323,8 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [
-
-        ],
-        "privacy": {
-        }
+        "entitlements": [],
+        "privacy": {}
       }
     },
     {
@@ -363,6 +339,14 @@
       "iconURL": "https://raw.githubusercontent.com/Predidit/Kazumi/main/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024%401x.png",
       "category": "entertainment",
       "versions": [
+        {
+          "version": "2.1.8",
+          "buildVersion": "20108",
+          "date": "2026-07-02",
+          "localizedDescription": "上游源文件：Kazumi_ios_2.1.8_no_sign.ipa",
+          "downloadURL": "https://github.com/Predidit/Kazumi/releases/download/2.1.8/Kazumi_ios_2.1.8_no_sign.ipa",
+          "size": 28346335
+        },
         {
           "version": "2.1.7",
           "buildVersion": "20107",
@@ -453,11 +437,8 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [
-
-        ],
-        "privacy": {
-        }
+        "entitlements": [],
+        "privacy": {}
       }
     },
     {
@@ -490,11 +471,8 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [
-
-        ],
-        "privacy": {
-        }
+        "entitlements": [],
+        "privacy": {}
       }
     },
     {
@@ -524,11 +502,8 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [
-
-        ],
-        "privacy": {
-        }
+        "entitlements": [],
+        "privacy": {}
       }
     },
     {
@@ -558,11 +533,8 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [
-
-        ],
-        "privacy": {
-        }
+        "entitlements": [],
+        "privacy": {}
       }
     },
     {
@@ -584,11 +556,8 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [
-
-        ],
-        "privacy": {
-        }
+        "entitlements": [],
+        "privacy": {}
       }
     },
     {
@@ -610,11 +579,8 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [
-
-        ],
-        "privacy": {
-        }
+        "entitlements": [],
+        "privacy": {}
       }
     },
     {
@@ -695,11 +661,8 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [
-
-        ],
-        "privacy": {
-        }
+        "entitlements": [],
+        "privacy": {}
       }
     },
     {
@@ -721,11 +684,8 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [
-
-        ],
-        "privacy": {
-        }
+        "entitlements": [],
+        "privacy": {}
       }
     },
     {
@@ -747,11 +707,8 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [
-
-        ],
-        "privacy": {
-        }
+        "entitlements": [],
+        "privacy": {}
       }
     },
     {
@@ -773,11 +730,8 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [
-
-        ],
-        "privacy": {
-        }
+        "entitlements": [],
+        "privacy": {}
       }
     },
     {
@@ -799,11 +753,8 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [
-
-        ],
-        "privacy": {
-        }
+        "entitlements": [],
+        "privacy": {}
       }
     },
     {
@@ -833,11 +784,8 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [
-
-        ],
-        "privacy": {
-        }
+        "entitlements": [],
+        "privacy": {}
       }
     },
     {
@@ -859,11 +807,8 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [
-
-        ],
-        "privacy": {
-        }
+        "entitlements": [],
+        "privacy": {}
       }
     },
     {
@@ -885,11 +830,8 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [
-
-        ],
-        "privacy": {
-        }
+        "entitlements": [],
+        "privacy": {}
       }
     },
     {
@@ -911,11 +853,8 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [
-
-        ],
-        "privacy": {
-        }
+        "entitlements": [],
+        "privacy": {}
       }
     },
     {
@@ -945,11 +884,8 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [
-
-        ],
-        "privacy": {
-        }
+        "entitlements": [],
+        "privacy": {}
       }
     },
     {
@@ -971,11 +907,8 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [
-
-        ],
-        "privacy": {
-        }
+        "entitlements": [],
+        "privacy": {}
       }
     },
     {
@@ -997,11 +930,8 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [
-
-        ],
-        "privacy": {
-        }
+        "entitlements": [],
+        "privacy": {}
       }
     },
     {
@@ -1023,11 +953,8 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [
-
-        ],
-        "privacy": {
-        }
+        "entitlements": [],
+        "privacy": {}
       }
     },
     {
@@ -1049,11 +976,8 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [
-
-        ],
-        "privacy": {
-        }
+        "entitlements": [],
+        "privacy": {}
       }
     }
   ]
