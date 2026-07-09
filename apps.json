@@ -42,6 +42,14 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "5.7.1",
+          "buildVersion": "50710",
+          "date": "2026-07-09",
+          "localizedDescription": "上游源文件：ani-5.7.1.ipa",
+          "downloadURL": "https://github.com/open-ani/animeko/releases/download/v5.7.1/ani-5.7.1.ipa",
+          "size": 30505730
+        },
+        {
           "version": "5.7.0",
           "buildVersion": "50700",
           "date": "2026-06-28",
@@ -114,6 +122,14 @@
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a1/d8/a6/a1d8a63c-1534-2a04-b0fe-3de6e9c800b9/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/512x512bb.jpg",
       "category": "social",
       "versions": [
+        {
+          "version": "3.4.0",
+          "buildVersion": "291",
+          "date": "2026-07-08",
+          "localizedDescription": "上游源文件：Apollo-Reborn-3.4.0.ipa",
+          "downloadURL": "https://github.com/Apollo-Reborn/Apollo-Reborn/releases/download/v1.15.11_3.4.0/Apollo-Reborn-3.4.0.ipa",
+          "size": 90178536
+        },
         {
           "version": "3.3.0",
           "buildVersion": "290",
