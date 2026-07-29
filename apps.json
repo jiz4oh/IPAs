@@ -555,6 +555,9 @@
       "localizedDescription": "从本地 IPA 归档生成。",
       "iconURL": "https://raw.githubusercontent.com/xiaoyaocz/dart_simple_live/master/simple_live_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/icon-1024.png",
       "category": "entertainment",
+      "upstream": {
+        "repo": "June6699/dart_simple_live"
+      },
       "versions": [
         {
           "version": "1.12.5",
