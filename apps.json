@@ -560,6 +560,14 @@
       },
       "versions": [
         {
+          "version": "1.12.7",
+          "buildVersion": "11207",
+          "date": "2026-07-24",
+          "localizedDescription": "上游源文件：ios_no_sign.ipa",
+          "downloadURL": "https://github.com/June6699/dart_simple_live/releases/download/v1.12.7/ios_no_sign.ipa",
+          "size": 31092611
+        },
+        {
           "version": "1.12.5",
           "buildVersion": "11205",
           "date": "2026-06-05",
