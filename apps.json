@@ -123,6 +123,14 @@
       "category": "social",
       "versions": [
         {
+          "version": "3.5.0",
+          "buildVersion": "294",
+          "date": "2026-07-30",
+          "localizedDescription": "上游源文件：Apollo-Reborn-3.5.0.ipa",
+          "downloadURL": "https://github.com/Apollo-Reborn/Apollo-Reborn/releases/download/v1.15.11_3.5.0/Apollo-Reborn-3.5.0.ipa",
+          "size": 93574665
+        },
+        {
           "version": "3.4.2",
           "buildVersion": "293",
           "date": "2026-07-17",
@@ -387,6 +395,14 @@
       "iconURL": "https://raw.githubusercontent.com/Predidit/Kazumi/main/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024%401x.png",
       "category": "entertainment",
       "versions": [
+        {
+          "version": "2.2.5",
+          "buildVersion": "20205",
+          "date": "2026-07-30",
+          "localizedDescription": "上游源文件：Kazumi_ios_2.2.5_no_sign.ipa",
+          "downloadURL": "https://github.com/Predidit/Kazumi/releases/download/2.2.5/Kazumi_ios_2.2.5_no_sign.ipa",
+          "size": 29556445
+        },
         {
           "version": "2.2.3",
           "buildVersion": "20203",
