@@ -42,6 +42,14 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "6.0.0",
+          "buildVersion": "60000",
+          "date": "2026-08-01",
+          "localizedDescription": "上游源文件：ani-6.0.0.ipa",
+          "downloadURL": "https://github.com/open-ani/animeko/releases/download/v6.0.0/ani-6.0.0.ipa",
+          "size": 41391524
+        },
+        {
           "version": "5.7.1",
           "buildVersion": "50710",
           "date": "2026-07-09",
@@ -339,6 +347,14 @@
       "versions": [
         {
           "version": "8.0.14",
+          "buildVersion": "328",
+          "date": "2026-08-02",
+          "localizedDescription": "上游源文件：JHenTai_8.0.14+328.ipa",
+          "downloadURL": "https://github.com/jiangtian616/JHenTai/releases/download/v8.0.14%2B328/JHenTai_8.0.14%2B328.ipa",
+          "size": 12883787
+        },
+        {
+          "version": "8.0.14",
           "buildVersion": "323",
           "date": "2026-07-05",
           "localizedDescription": "上游源文件：JHenTai_8.0.14+323.ipa",
@@ -395,6 +411,14 @@
       "iconURL": "https://raw.githubusercontent.com/Predidit/Kazumi/main/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024%401x.png",
       "category": "entertainment",
       "versions": [
+        {
+          "version": "2.2.6",
+          "buildVersion": "20206",
+          "date": "2026-08-01",
+          "localizedDescription": "上游源文件：Kazumi_ios_2.2.6_no_sign.ipa",
+          "downloadURL": "https://github.com/Predidit/Kazumi/releases/download/2.2.6/Kazumi_ios_2.2.6_no_sign.ipa",
+          "size": 29552334
+        },
         {
           "version": "2.2.5",
           "buildVersion": "20205",
