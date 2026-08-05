@@ -18,7 +18,9 @@ module IpaMetadata
     entries, status = Open3.capture2("zipinfo", "-1", ipa_path)
     raise "Failed to inspect IPA: #{ipa_path}" unless status.success?
 
-    info_path = entries.lines.find { |line| line.match?(%r{^Payload/[^/]+\.app/Info\.plist$}) }&.strip
+    info_path = entries.b.each_line.find do |line|
+      line.match?(%r{\APayload/[^/]+\.app/Info\.plist$}n)
+    end&.strip
     raise "Info.plist not found in #{ipa_path}" unless info_path
 
     Tempfile.create(["Info", ".plist"]) do |plist|
