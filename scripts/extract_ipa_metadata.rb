@@ -36,7 +36,10 @@ end
 
 def build_result(ipa_path)
   absolute_path = File.expand_path(ipa_path)
-  IpaMetadata.extract(absolute_path).merge("path" => absolute_path)
+  IpaMetadata.extract(absolute_path).merge(
+    "size" => File.size(absolute_path),
+    "path" => absolute_path
+  )
 rescue StandardError => e
   { "path" => absolute_path, "error" => e.message }
 end
