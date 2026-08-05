@@ -208,6 +208,13 @@
       "category": "social",
       "versions": [
         {
+          "version": "12.13",
+          "buildVersion": "10",
+          "date": "2026-08-05",
+          "downloadURL": "https://github.com/jiz4oh/IPAs/releases/download/latest/X_12.13.ipa",
+          "size": 231276893
+        },
+        {
           "version": "11.35",
           "buildVersion": "12",
           "date": "2025-11-03",
