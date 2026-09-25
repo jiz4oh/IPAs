@@ -139,6 +139,14 @@
       "category": "social",
       "versions": [
         {
+          "version": "3.8.0",
+          "buildVersion": "299",
+          "date": "2026-09-25",
+          "localizedDescription": "上游源文件：Apollo-Reborn-3.8.0.ipa",
+          "downloadURL": "https://github.com/Apollo-Reborn/Apollo-Reborn/releases/download/v1.15.11_3.8.0/Apollo-Reborn-3.8.0.ipa",
+          "size": 96553795
+        },
+        {
           "version": "3.7.1",
           "buildVersion": "298",
           "date": "2026-09-13",
@@ -734,6 +742,14 @@
         "repo": "June6699/dart_simple_live"
       },
       "versions": [
+        {
+          "version": "1.13.1",
+          "buildVersion": "11301",
+          "date": "2026-09-25",
+          "localizedDescription": "上游源文件：ios_no_sign.ipa",
+          "downloadURL": "https://github.com/June6699/dart_simple_live/releases/download/v1.13.1/ios_no_sign.ipa",
+          "size": 34998027
+        },
         {
           "version": "1.13.0",
           "buildVersion": "11300",
