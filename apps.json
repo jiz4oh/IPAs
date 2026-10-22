@@ -473,6 +473,14 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "8.0.17",
+          "buildVersion": "338",
+          "date": "2026-10-21",
+          "localizedDescription": "上游源文件：JHenTai_8.0.17+338.ipa",
+          "downloadURL": "https://github.com/jiangtian616/JHenTai/releases/download/v8.0.17%2B339/JHenTai_8.0.17%2B338.ipa",
+          "size": 13025995
+        },
+        {
           "version": "8.0.16",
           "buildVersion": "334",
           "date": "2026-09-09",
@@ -830,6 +838,14 @@
         "repo": "June6699/dart_simple_live"
       },
       "versions": [
+        {
+          "version": "1.13.2",
+          "buildVersion": "11302",
+          "date": "2026-10-20",
+          "localizedDescription": "上游源文件：ios_no_sign.ipa",
+          "downloadURL": "https://github.com/June6699/dart_simple_live/releases/download/v1.13.2/ios_no_sign.ipa",
+          "size": 35118814
+        },
         {
           "version": "1.13.1",
           "buildVersion": "11301",
