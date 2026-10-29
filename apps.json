@@ -304,6 +304,22 @@
       "category": "social",
       "versions": [
         {
+          "version": "12.38.1",
+          "buildVersion": "2",
+          "date": "2026-10-28",
+          "localizedDescription": "上游源文件：NeoFreeBird-sideloaded-X_7.3.0_12.38.1.ipa",
+          "downloadURL": "https://github.com/NeoFreeBird/app/releases/download/v7.3.0/NeoFreeBird-sideloaded-X_7.3.0_12.38.1.ipa",
+          "size": 273143491
+        },
+        {
+          "version": "12.38.1",
+          "buildVersion": "2",
+          "date": "2026-10-28",
+          "localizedDescription": "上游源文件：NeoFreeBird-sideloaded-Twitter_7.3.0_12.38.1.ipa",
+          "downloadURL": "https://github.com/NeoFreeBird/app/releases/download/v7.3.0/NeoFreeBird-sideloaded-Twitter_7.3.0_12.38.1.ipa",
+          "size": 269779010
+        },
+        {
           "version": "12.33",
           "buildVersion": "31",
           "date": "2026-10-16",
