@@ -163,6 +163,14 @@
       "category": "social",
       "versions": [
         {
+          "version": "4.0.1",
+          "buildVersion": "303",
+          "date": "2026-10-30",
+          "localizedDescription": "上游源文件：Apollo-Reborn-4.0.1.ipa",
+          "downloadURL": "https://github.com/Apollo-Reborn/Apollo-Reborn/releases/download/v1.15.11_4.0.1/Apollo-Reborn-4.0.1.ipa",
+          "size": 97666145
+        },
+        {
           "version": "4.0.0",
           "buildVersion": "302",
           "date": "2026-10-25",
